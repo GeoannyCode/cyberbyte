@@ -10,7 +10,6 @@ const OrdersCard = props => {
     
 
     const changeidProduct = () =>{
-        console.log(index)
         context.setIdOrder(index)
     }
 
